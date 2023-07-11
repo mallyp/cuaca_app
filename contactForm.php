@@ -71,4 +71,3 @@ $sql="INSERT INTO contactUs (name, email, phone, comments) VALUES ('".$Name."','
 }
 
 ?>
-
